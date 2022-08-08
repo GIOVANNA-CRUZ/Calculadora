@@ -1,4 +1,4 @@
-<h1>Calculadora</h1>
+<h1>Calculadora :computer:</h1>
 
 <h1>Description and Funcionalities</h2>
 This project is a simple calculator that performs operations with just two numbers.
